@@ -28,7 +28,7 @@ export default {
       }
     ],
     link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }],
-    script: [{ src: "/Nuxt-deploy-demo/jquery.min.js", body: true }]
+    script: [{ src: "/Nuxt-deploy-demo/js/jquery.min.js", body: true }]
     // script: [{ src: "/js/jquery.min.js", body: true }]
   },
   /*
